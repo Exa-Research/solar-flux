@@ -1,0 +1,1 @@
+This repository contains a Jupyter notebook and accompanying data files for analyzing different sources of solar flux predictions. See the notebook for more details.
